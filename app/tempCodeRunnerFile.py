@@ -1,0 +1,1 @@
+ model_files = list(MODEL_DIR.glob("*.h5")) + list(MODEL_DIR.glob("*.keras"))
