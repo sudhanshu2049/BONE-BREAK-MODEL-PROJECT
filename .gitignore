@@ -129,22 +129,22 @@ dmypy.json
 .pyre/
 
 # Machine Learning / Data Science
-# Models
-*.h5
-*.hdf5
-*.keras
-*.pb
-*.pkl
-*.pickle
-*.joblib
-*.model
-saved_model/
-checkpoints/
-*.ckpt
-*.index
-*.data-00000-of-00001
+# Models - INCLUDE IN REPO
+# *.h5
+# *.hdf5
+# *.keras
+# *.pb
+# *.pkl
+# *.pickle
+# *.joblib
+# *.model
+# saved_model/
+# checkpoints/
+# *.ckpt
+# *.index
+# *.data-00000-of-00001
 
-# Datasets (uncomment if you want to ignore datasets)
+# Datasets - INCLUDE IN REPO
 # data/
 # dataset/
 # datasets/
@@ -179,14 +179,14 @@ temp/
 *.tmp
 *.temp
 
-# Project specific
-outputs/models/
-outputs/plots/
-outputs/metrics/
-outputs/logs/
-models/
-*.txt
-best_model.txt
+# Project specific - INCLUDE IN REPO
+# outputs/models/
+# outputs/plots/
+# outputs/metrics/
+# outputs/logs/
+# models/
+# *.txt
+# best_model.txt
 
 # Streamlit
 .streamlit/
